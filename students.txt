@@ -1,2 +1,3 @@
 Konstantin Malanchev <hombit@gmail.com>
 DimaVorobev <dlvorobev@edu.hse.ru>
+vmmakarova <vmmakarova@edu.hse.ru>
